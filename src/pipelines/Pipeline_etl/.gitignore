@@ -1,0 +1,19 @@
+# Ignorar pastas __pycache__
+__pycache__/
+
+# Ignorar arquivos .pyc (arquivos de bytecode Python)
+*.pyc
+
+# Ignorar arquivos .pyo (arquivos de bytecode otimizados Python)
+*.pyo
+
+# Ignorar arquivos Jupyter Notebook (arquivos de notebook do Jupyter)
+*.ipynb
+
+# Diretórios e arquivos de ambientes virtuais
+venv/
+.env/
+.venv/
+
+*.zip
+*.csv
